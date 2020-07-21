@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working at [Lever](https://www.lever.co/)
+- 🌱 I’m currently learning [Svelte](https://github.com/sveltejs/svelte) for fun and [Derbyjs](https://github.com/derbyjs/derby) for work
+- 👯 I’m looking to collaborate on ...
+- 💬 Ask me about Typescript, React, Node.js, Python, Swift, coffee, food, movies, books, ... talk to me about anything! Just please talk to me! :P
+- 📫 How to reach me: The [twitters](https://twitter.com/sirterenced)
+- ⚡ Fun fact: I am a [Black belt](https://www.instagram.com/p/Bf_9YqABPga/) in Brazilian Jiu-jitsu
+
 <!--
 **terenced/terenced** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![HitCount](http://hits.dwyl.com/terenced/terenced.svg)](http://hits.dwyl.com/terenced/terenced) :eyes:
+
