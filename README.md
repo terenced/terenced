@@ -1,9 +1,12 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at [Lever](https://www.lever.co/)
-- 🌱 I’m currently learning [Svelte](https://github.com/sveltejs/svelte) for fun and [Derbyjs](https://github.com/derbyjs/derby) for work
-- 💬 Ask me about Typescript, React, Node.js, Python, Swift, coffee, food, movies, books, ... talk to me about anything! Just please talk to me! :P
-- 📫 How to reach me: The [twitters](https://twitter.com/sirterenced)
+- 🌱 I’m currently playing around with
+  - [Remix](https://remix.run)
+  - [Svelte](https://github.com/sveltejs/svelte)
+  - Serverless GPUs 
+- 💬 Ask me about Typescript, Python, Rust, coffee, food, movies, books, ... talk to me about anything! Just please talk to me! :P
+- 📫 How to reach me: The [twitters](https://twitter.com/sirterenced) or [superbeta.dev](https://superbeta.dev)
 - ⚡ Fun fact: I am a [Black belt](https://www.instagram.com/p/Bf_9YqABPga/) in Brazilian Jiu-jitsu
 
 <!--
