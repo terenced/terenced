@@ -1,12 +1,15 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at [Lever](https://www.lever.co/)
-- 🌱 I’m currently playing around with
-  - [Remix](https://remix.run)
-  - [Svelte](https://github.com/sveltejs/svelte)
-  - Serverless GPUs 
+- 🔭 I’m currently working at [Jane](https://www.jane.app/)
+- 💼 Working with
+  - Typescript/React/Vite
+  - Java/Spring (I have managed to avoid this for most of my career, but here I am 🤷)  
+- 🌱 Playing around with
+  - [Astro](https://astro.build)  
+  - [Hono](https://hono.dev)
+  - [Cloudflare Workers](https://workers.cloudflare.com/) 
 - 💬 Ask me about Typescript, Python, Rust, coffee, food, movies, books, ... talk to me about anything! Just please talk to me! :P
-- 📫 How to reach me: The [twitters](https://twitter.com/sirterenced) or [superbeta.dev](https://superbeta.dev)
+- 📫 How to reach me: [BlueSky](https://bsky.app/profile/superbeta.dev) || [Masatdon](https://mastodon.social/@sirterenced) || [superbeta.dev](https://superbeta.dev)
 - ⚡ Fun fact: I am a [Black belt](https://www.instagram.com/p/Bf_9YqABPga/) in Brazilian Jiu-jitsu
 
 <!--
